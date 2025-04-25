@@ -10,4 +10,15 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-* juwenzhang-front-end-infra-repo
+### Basic Infomation About Me
+* 🌈 juwenzhang-front-end-infra-team.
+* 🙋‍♀️ main in create some auto-tools about front-end.
+* 👩‍💻 main react, vue, nuxt, next, nest and so on.
+* 🍿 you can fellow it to get updatedest infomations about this team.
+* 🧙 about me: juwenzhang
+* 🚀 my informations
+  * 🙋‍♀️ 3137536916@qq.com
+  * 🙋‍♀️ 17323451211
+
+### Some Achieved Tools In Team
+* 🙋‍♀️ jwz-cli
